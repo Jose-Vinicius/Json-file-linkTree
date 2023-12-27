@@ -3,7 +3,15 @@
     "links": [
         {
             "pageName": "Linkedin",
-            "pageURL" : "http://linkedin.com.br"
+            "pageURL": "https://www.linkedin.com/in/jose-vinicius--/"
+        },
+        {
+            "pageName": "GitHub",
+            "pageURL": "https://github.com/Jose-Vinicius"
+        },
+        {
+            "pageName": "Instagram",
+            "pageURL": "https://www.instagram.com/vini.32/"
         }
     ]
 }
